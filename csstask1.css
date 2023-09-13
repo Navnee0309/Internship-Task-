@@ -1,0 +1,72 @@
+table,
+td,
+th {
+  border: 1px solid rgb(0, 0, 0);
+  width: 42%;
+  background-color: #96d4d4;
+  border-radius: 10px;
+}
+
+.shapes {
+  margin-left: 10%;
+}
+.rectangle {
+  display: inline-block;
+  margin-top: 10px;
+  border-radius: 5px;
+  border: 2px solid rgb(95, 207, 110);
+  width: 85px;
+  height: 50px;
+}
+.rectangle2 {
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 20px;
+  border-radius: 5px;
+  border: 2px solid rgb(95, 207, 110);
+  width: 85px;
+  height: 50px;
+}
+.rectangle3 {
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 20px;
+  border-radius: 15px;
+  border: 2px solid rgb(95, 207, 110);
+  width: 85px;
+  height: 50px;
+}
+.rectangle4 {
+  display: inline-block;
+  margin-top: 10px;
+  border-radius: 5px;
+  border: 2px solid rgb(95, 207, 110);
+  width: 85px;
+  height: 50px;
+}
+.rectangle5 {
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 20px;
+  border-radius: 3px;
+  border: 2px solid rgb(95, 207, 110);
+  width: 85px;
+  height: 50px;
+}
+.circle {
+  display: inline-block;
+  margin-top: 10px;
+  border-radius: 50%;
+  border: 2px solid rgb(95, 207, 110);
+  width: 85px;
+  height: 45px;
+}
+.rectangle6 {
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 20px;
+  border-radius: 3px 15px 3px 15px;
+  border: 2px solid rgb(95, 207, 110);
+  width: 85px;
+  height: 50px;
+}

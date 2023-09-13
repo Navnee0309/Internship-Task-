@@ -1,0 +1,30 @@
+table,
+tr,
+td,
+th {
+  border: 0 solid lightgrey;
+  border-collapse: collapse;
+}
+td,
+th {
+  padding: 5px 150px 5px 5px;
+}
+
+#row1 {
+  background-color: rgb(66, 175, 111);
+  color: white;
+}
+.roweven {
+  background-color: grey;
+  color: black;
+}
+.rowodd {
+  background-color: white;
+  color: black;
+}
+.left {
+  text-align: left;
+}
+#middle {
+  text-align: center;
+}

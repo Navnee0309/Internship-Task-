@@ -1,0 +1,58 @@
+.main {
+  background-color: rgb(231, 231, 81);
+  border: 1px dotted black;
+  width: 30%;
+  height: 350px;
+}
+.content {
+  color: purple;
+  padding-left: 150px;
+}
+.btn {
+  position: absolute;
+  border-collapse: collapse;
+  border: 0;
+  cursor: pointer;
+}
+#home {
+  text-align: left;
+  color: purple;
+  border-right: 15px solid black;
+  top: 8.2%;
+  left: 1.6%;
+  height: 25px;
+  width: 105px;
+  background-color: white;
+}
+#musing {
+  text-align: left;
+  color: blue;
+  border-right: 15px solid black;
+  top: 11.5%;
+  left: 1.6%;
+  height: 25px;
+  width: 105px;
+  background-color: white;
+  margin: 10px 0 10px 0;
+}
+#town {
+  text-align: left;
+  color: blue;
+  border-right: 15px solid black;
+  top: 16%;
+  left: 1.6%;
+  height: 25px;
+  width: 105px;
+  background-color: white;
+  margin: 10px 0 10px 0;
+}
+#links {
+  text-align: left;
+  color: blue;
+  border-right: 15px solid black;
+  left: 1.6%;
+  top: 22%;
+  height: 25px;
+  width: 105px;
+  background-color: white;
+}

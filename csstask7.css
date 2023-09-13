@@ -1,0 +1,44 @@
+body {
+  background-color: rgb(202, 103, 119);
+  padding-left: 400px;
+  padding-top: 25px;
+}
+.box {
+  background-color: rgb(137, 20, 40);
+  width: 500px;
+}
+form {
+  margin-left: 55px;
+  padding: 20px;
+  color: white;
+}
+#label1 {
+  padding-right: 90px;
+}
+#label2 {
+  padding-right: 87px;
+}
+#label3 {
+  padding-right: 66px;
+}
+#label4 {
+  padding-right: 30px;
+}
+#label5 {
+  padding-right: 80px;
+}
+#label6 {
+  padding-right: 70px;
+}
+#label7 {
+  padding-right: 65px;
+}
+#txt {
+  margin-left: 80px;
+  padding-top: 2px;
+}
+#single {
+  height: 30px;
+  width: 360px;
+  cursor: pointer;
+}

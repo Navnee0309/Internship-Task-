@@ -1,0 +1,36 @@
+.center {
+  padding-left: 250px;
+}
+form {
+  width: 900px;
+  margin-top: 50px;
+  margin-left: 300px;
+}
+.input1 {
+  height: 35px;
+  width: 800px;
+}
+#single {
+  height: 35px;
+  width: 800px;
+  cursor: pointer;
+  background-color: #04aa6d;
+  color: white;
+}
+#single1 {
+  position: absolute;
+  height: 30px;
+  width: 50px;
+  cursor: pointer;
+  background-color: red;
+  color: white;
+  padding: 3px 2px 4px 4px;
+}
+.option1 {
+  height: 50px;
+  width: 800px;
+  background-color: grey;
+}
+.pass {
+  float: right;
+}
